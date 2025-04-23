@@ -27,11 +27,11 @@ This project leverages Databricks and Apache Spark (PySpark) to build a machine 
 
 ```
 TaxiTripAnalysis/
-├── notebooks/
-│   ├── data_preparation.ipynb      # Data cleaning and preprocessing
-│   ├── exploratory_analysis.ipynb  # Visualizations and initial insights
-│   ├── model_training.ipynb        # ML pipeline implementation
-│   └── model_deployment.ipynb      # SQL UDFs and deployment code
+├── notebook/
+│   ├── data_preparation      # Data cleaning and preprocessing
+│   ├── exploratory_analysis  # Visualizations and initial insights
+│   ├── model_training        # ML pipeline implementation
+│   └── model_deployment      # SQL UDFs and deployment code
 └── README.md
 ```
 
